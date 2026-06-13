@@ -1,0 +1,119 @@
+{
+  "Road Damage": {
+    "department": "Municipal Engineering Department",
+    "website": "https://tgmc.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Local Municipal Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "publicgrievance@telangana.gov.in",
+    "helpline": "1902-123-456"
+  },
+  "Water Supply": {
+    "department": "Telangana Water Supply Department",
+    "website": "https://telanganawater.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Local Water Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "watersupport@telangana.gov.in",
+    "helpline": "1800-345-678"
+  },
+  "Streetlight Issue": {
+    "department": "Municipal Electrical Department",
+    "website": "https://tgmc.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Local Ward Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "lighting@telangana.gov.in",
+    "helpline": "1800-456-789"
+  },
+  "Garbage Collection": {
+    "department": "Sanitation Department",
+    "website": "https://tgmc.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Local Sanitation Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "sanitation@telangana.gov.in",
+    "helpline": "1800-567-890"
+  },
+  "Sanitation": {
+    "department": "Health and Sanitation Department",
+    "website": "https://health.telangana.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Municipal Health Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "health@telangana.gov.in",
+    "helpline": "1800-678-901"
+  },
+  "Electricity Outage": {
+    "department": "Telangana Power Distribution Company",
+    "website": "https://tspdcl.cgg.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Local Electricity Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "power@telangana.gov.in",
+    "helpline": "1800-789-012"
+  },
+  "Pollution": {
+    "department": "Environment Department",
+    "website": "https://environment.telangana.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Local Environment Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "environment@telangana.gov.in",
+    "helpline": "1800-890-123"
+  },
+  "Traffic Signal": {
+    "department": "Traffic Management Department",
+    "website": "https://traffic.telangana.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Traffic Police Station",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "traffic@telangana.gov.in",
+    "helpline": "1800-901-234"
+  },
+  "Drainage": {
+    "department": "Urban Infrastructure Department",
+    "website": "https://urban.telangana.gov.in",
+    "grievance_portal": "https://spandana.telangana.gov.in",
+    "submission_options": [
+      "Municipal Engineering Office",
+      "Grievance Portal",
+      "Email",
+      "Phone Helpline"
+    ],
+    "email": "drainage@telangana.gov.in",
+    "helpline": "1800-012-345"
+  }
+}
